@@ -2,5 +2,5 @@
 * transform text to numbers
 * creating input/output data
 * building a neural network
-* Reducing noise in input dat
+* Reducing noise in input data
 * Make network more effecient
