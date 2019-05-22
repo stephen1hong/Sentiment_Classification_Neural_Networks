@@ -1,4 +1,4 @@
-# Sentiment_Classification_Neural_Networks
+# Sentiment Classification Neural Networks
 * transform text to numbers
 * creating input/output data
 * building a neural network
